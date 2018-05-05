@@ -2,7 +2,7 @@
   "name": "burgers",
   "version": "1.0.0",
   "description": "hw",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
